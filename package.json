@@ -1,0 +1,27 @@
+{
+    "name": "BPJS-Electron",
+    "version": "1.0.0",
+    "description": "An Electron Video Scrapper",
+    "main": "index.js",
+    "scripts": {
+        "start": "electron .",
+        "lint": "eslint **/*.js"
+    },
+    "repository": "https://github.com/nottoobright/Building-Products-With-JavaScript",
+    "keywords": [
+        "Electron",
+        "quick",
+        "start",
+        "tutorial",
+        "demo"
+    ],
+    "author": "Yash Puthran",
+    "license": "MIT",
+    "devDependencies": {
+        "electron": "~1.6.2",
+        "eslint": "^4.3.0",
+        "eslint-config-prettier": "^2.3.0",
+        "eslint-plugin-prettier": "^2.1.2",
+        "prettier": "^1.5.3"
+    }
+}
