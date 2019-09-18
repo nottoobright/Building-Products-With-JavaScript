@@ -18,7 +18,7 @@
     "author": "Yash Puthran",
     "license": "MIT",
     "devDependencies": {
-        "electron": "~1.6.2",
+        "electron": "~1.8.8",
         "eslint": "^4.3.0",
         "eslint-config-prettier": "^2.3.0",
         "eslint-plugin-prettier": "^2.1.2",
